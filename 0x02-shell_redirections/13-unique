@@ -1,2 +1,2 @@
 #!/bin/bash
-ftm | uniq -u
+uniq -u
