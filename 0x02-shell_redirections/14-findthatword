@@ -1,1 +1,1 @@
-#!/bin/bash\ncat grep "root" /etc/password
+#!/bin/bash\ngrep "root" /etc/password
