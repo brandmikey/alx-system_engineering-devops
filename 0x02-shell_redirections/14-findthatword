@@ -1,1 +1,1 @@
-#!/bin/bash\ncat /etc/passwd | sort | grep "root" | lpr
+#!/bin/bash\ncat grep "root" /etc/password
